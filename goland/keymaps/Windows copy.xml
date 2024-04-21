@@ -10,6 +10,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="CollapseSelection" />
+  <action id="Diff.FocusOppositePane" />
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
@@ -17,7 +18,16 @@
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
   <action id="SmartSelect" />
+  <action id="Switcher" />
   <action id="TableResult.GrowSelection" />
   <action id="TableResult.SelectColumn" />
   <action id="TableResult.ShrinkSelection" />
