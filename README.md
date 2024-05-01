@@ -1,9 +1,3 @@
 # setup-windows
 
-Setup Windows.
-
-## Goland
-
-Goland setup.
-- Keymap
-- Plugins
+Setup MacOs and Windows machines.
