@@ -1,3 +1,3 @@
 # setup
 
-Setup MacOs and Windows machines.
+Setup Unix and Windows machines.
